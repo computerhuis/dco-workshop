@@ -1,13 +1,13 @@
 [package]
-name = "app"
+name = "dco-workshop"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
-license = ""
-repository = ""
-default-run = "app"
+description = "Werkplaats Computerhuis Oost"
+authors = ["Ron Lievens"]
+license = "Apache-2.0"
+repository = "https://github.com/computerhuis/dco-workshop"
+default-run = "dco-workshop"
 edition = "2021"
-rust-version = "1.60"
+rust-version = "1.74"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
