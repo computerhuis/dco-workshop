@@ -1,5 +1,7 @@
+import {Title} from "@mantine/core";
+
 export function Computers() {
     return (
-        <h1>Computers</h1>
+        <Title order={1}>Computers</Title>
     );
 }

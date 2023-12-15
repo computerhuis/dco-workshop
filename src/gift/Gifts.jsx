@@ -1,5 +1,7 @@
+import {Title} from "@mantine/core";
+
 export function Gifts() {
-  return (
-    <h1>Gifts</h1>
-  );
+    return (
+        <Title order={1}>Gifts</Title>
+    );
 }

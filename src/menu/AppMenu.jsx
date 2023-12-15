@@ -41,7 +41,7 @@ function NavbarLink({icon: Icon, label, link}) {
 
 export function AppMenu() {
     const links = menu.map((link, index) => (
-        <NavbarLink    {...link} key={index}/>
+        <NavbarLink {...link} key={index}/>
     ));
 
     return (
